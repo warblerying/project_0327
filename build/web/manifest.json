@@ -1,0 +1,23 @@
+{
+    "name": "project_0327",
+    "short_name": "project_0327",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A 0327 project.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+      {
+          "src": "android-chrome-192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+      },
+      {
+          "src": "android-chrome-512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ]
+}
